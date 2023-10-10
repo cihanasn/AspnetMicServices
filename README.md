@@ -60,3 +60,5 @@ show databases
 ```csharp
 show collections
 ```
+
+![image](https://github.com/cihanasn/AspnetMicServices/assets/16838785/cc2f3c50-e690-4777-894c-9c3942113c44)

@@ -66,3 +66,7 @@ show collections
 ![image](https://github.com/cihanasn/AspnetMicServices/assets/16838785/10245d87-29c3-4e7d-8852-8a2cefba12a0)
 
 Repository Design Pattern : It is an abstraction of the data layer and it is a way of centralizing the handling of the domain objects.
+
+```csharp
+Update-Package -ProjectName Catalog.API
+```

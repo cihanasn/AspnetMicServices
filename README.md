@@ -70,3 +70,17 @@ Repository Design Pattern : It is an abstraction of the data layer and it is a w
 ```csharp
 Update-Package -ProjectName Catalog.API
 ```
+
+```csharp
+docker ps -a
+```
+
+```csharp
+docker start a5fa
+```
+
+```csharp
+http://localhost:5124/api/v1/catalog
+```
+
+![image](https://github.com/cihanasn/AspnetMicServices/assets/16838785/61643105-ead3-432a-b28b-5a49dd2664ba)

@@ -19,6 +19,7 @@ namespace Catalog.API.Controllers
             _logger = logger ?? throw new ArgumentException(nameof(logger));
         }
 
+        [HttpGet]
         [ProducesResponseType(typeof(IEnumerable<Product>), (int)HttpStatusCode.OK)]
         public async Task<ActionResult<IEnumerable<Product>>> GetProducts()
         {
